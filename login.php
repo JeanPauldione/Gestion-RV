@@ -9,7 +9,7 @@
     <div class="login">
             <center>
                 <!--<h1>BIENVENUE SUR LA PLATEFORME DE GESTION DES APPRENANTS</h1>-->
-                <h1>BIENVENUE SUR LA PLATEFORME DE GESTION DES R-V</h1>
+                <h1>BIENVENUE SUR LA PLATEFORME DE GESTION DES R-V POUR UN HOPITAL</h1>
                 <form method="POST"  action="authentifier.php">
                     <p>Merci de vous Authentifier</p>
                     <input type="text" name="username" placeholder="login" required> <br>
